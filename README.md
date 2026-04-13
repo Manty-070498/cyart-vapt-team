@@ -66,14 +66,6 @@ The following methodology was followed across all tasks:
 
 ---
 
-## ⚠️ Notes
-
-* OpenVAS (GVM) was attempted but could not be fully configured due to feed synchronization and service errors.
-* Nikto was used as an alternative vulnerability scanning tool.
-* All activities were conducted in a controlled lab environment for educational purposes only.
-
----
-
 ## 📊 Learning Outcomes
 
 * Understanding of real-world penetration testing workflow
@@ -90,6 +82,4 @@ The following methodology was followed across all tasks:
 
 ---
 
-## 📎 Disclaimer
 
-This project is for educational purposes only. All testing was performed in a controlled lab environment. Unauthorized access to real systems is strictly prohibited.
